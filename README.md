@@ -1,2 +1,3 @@
 # gamedev
-My first game
+My first experience in Game development
+
